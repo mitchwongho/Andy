@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/com.andy">
+	<!-- 
+	<ImageView android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:scaleType="center"
+		android:src="@drawable/golden_gate" />
+	 -->
+	<com.andy.sliderbutton.SliderButtonView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		/>
+	<com.andy.TitleBar android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:layout_marginBottom="20dip"
+		android:layout_gravity="center_horizontal|top" android:padding="12dip"
+
+		android:background="#AA000000" android:textColor="#ffffffff"
+
+		android:text="Golden Gate" />
+	<com.andy.vehicle.MultiLineListView 
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" 
+		 />
+</merge>

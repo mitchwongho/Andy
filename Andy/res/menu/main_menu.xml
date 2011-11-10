@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:visible="true" android:enabled="true" android:title="Vehicles" android:checkable="false" android:id="@+id/menuitem_vehicles" android:icon="@drawable/ic_menu_add"></item>
+    <item android:visible="true" android:enabled="true" android:title="Emergency" android:checkable="false" android:id="@+id/menuitem_emergency" android:icon="@drawable/ic_menu_call"></item>
+    <item android:visible="true" android:id="@+id/menuitem_reports" android:enabled="true" android:title="Reports" android:icon="@drawable/ic_menu_slideshow"></item>
+    <item android:visible="true" android:id="@+id/menuitem_settings" android:enabled="true" android:title="Settings" android:icon="@drawable/ic_menu_preferences"></item>
+    <item android:visible="true" android:id="@+id/menuitem_about" android:enabled="true" android:title="About" android:icon="@drawable/ic_menu_help"></item>
+</menu>
