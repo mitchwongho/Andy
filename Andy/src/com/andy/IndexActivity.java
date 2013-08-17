@@ -22,7 +22,6 @@ import android.widget.AdapterView;
 import android.widget.SimpleAdapter;
 
 /**
- * @author mwho
  * This Activity is responsible for providing an index to the
  * examples in this project
  */

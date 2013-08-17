@@ -13,7 +13,6 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 /**
- * @author mwho
  *
  */
 public class TitleBar extends LinearLayout {

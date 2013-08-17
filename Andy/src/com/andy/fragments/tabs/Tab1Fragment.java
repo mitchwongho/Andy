@@ -13,7 +13,6 @@ import android.widget.LinearLayout;
 import com.andy.R;
 
 /**
- * @author mwho
  *
  */
 public class Tab1Fragment extends Fragment {

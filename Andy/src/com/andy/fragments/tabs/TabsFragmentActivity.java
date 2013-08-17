@@ -15,7 +15,6 @@ import android.widget.TabHost.TabContentFactory;
 import com.andy.R;
 
 /**
- * @author mwho
  *
  */
 public class TabsFragmentActivity extends FragmentActivity implements TabHost.OnTabChangeListener {
@@ -25,8 +24,6 @@ public class TabsFragmentActivity extends FragmentActivity implements TabHost.On
 	private TabInfo mLastTab = null;
 	/**
 	 * 
-	 * @author mwho
-	 *
 	 */
 	private class TabInfo {
 		 private String tag;
@@ -42,7 +39,6 @@ public class TabsFragmentActivity extends FragmentActivity implements TabHost.On
 	}
 	/**
 	 * 
-	 * @author mwho
 	 *
 	 */
 	class TabFactory implements TabContentFactory {

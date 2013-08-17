@@ -18,7 +18,6 @@ import com.andy.fragments.tabs.Tab3Fragment;
 
 /**
  * The <code>ViewPagerFragmentActivity</code> class is the fragment activity hosting the ViewPager  
- * @author mwho
  */
 public class ViewPagerFragmentActivity extends FragmentActivity{
 	/** maintains the pager adapter*/

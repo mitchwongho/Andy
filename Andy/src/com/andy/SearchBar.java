@@ -12,7 +12,6 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 
 /**
- * @author mwho
  *
  */
 public class SearchBar extends LinearLayout {

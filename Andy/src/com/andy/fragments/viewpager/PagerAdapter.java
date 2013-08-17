@@ -11,7 +11,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 /**
  * The <code>PagerAdapter</code> serves the fragments when paging.
- * @author mwho
  */
 public class PagerAdapter extends FragmentPagerAdapter {
 
